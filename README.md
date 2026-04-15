@@ -8,11 +8,6 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=utsho07&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-&nbsp;
-<a href="https://github.com/utsho07?tab=followers">
-  <img src="https://img.shields.io/github/followers/utsho07?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</a>
 
 </div>
 
