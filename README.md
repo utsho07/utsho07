@@ -15,7 +15,7 @@
 
 
 
-- 🔭 Currently working as **SOC Engineer L1**, building production-ready security operations environments
+- 🔭 Currently focused on building SOC-level security operations environments and strengthening practical cybersecurity skills
 - 🛡️ Hands-on with **Wazuh, ELK Stack, OpenSearch, Graylog, TheHive, Cortex, MISP**
 - 🖥️ Managing **Proxmox VE** virtualization and **Dell PowerEdge** server infrastructure
 - 📝 Technical writer on **cybersecurity & AI** topics on [Medium](https://medium.com/)
